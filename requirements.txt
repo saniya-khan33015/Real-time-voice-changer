@@ -1,0 +1,32 @@
+# Core API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+aiofiles
+
+# Frontend
+gradio
+requests
+ormsgpack
+
+# Audio and inference
+torch
+torchaudio
+onnxruntime
+TTS==0.22.0
+librosa==0.10.0
+soundfile
+numpy==1.26.4
+scipy
+pydub
+ffmpeg-python
+
+# Runtime utilities
+loguru
+python-dotenv
+
+# Testing
+pytest
+httpx

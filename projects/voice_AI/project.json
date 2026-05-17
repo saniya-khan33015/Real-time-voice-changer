@@ -1,0 +1,22 @@
+{
+  "name": "voice_AI",
+  "display_name": "voice AI",
+  "script": "Narrator: Welcome back to the studio.\nHost: Today we are exploring local voice AI.\nGuest: The best part is that everything runs offline.",
+  "speakers": {},
+  "lines": [
+    {
+      "speaker": "Narrator",
+      "text": "Welcome back to the studio."
+    },
+    {
+      "speaker": "Host",
+      "text": "Today we are exploring local voice AI."
+    },
+    {
+      "speaker": "Guest",
+      "text": "The best part is that everything runs offline."
+    }
+  ],
+  "created_at": "2026-05-14T09:53:07.500016+00:00",
+  "updated_at": "2026-05-14T09:53:07.500016+00:00"
+}

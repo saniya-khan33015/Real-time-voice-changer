@@ -1,0 +1,9 @@
+{
+  "name": "abc",
+  "display_name": "abc",
+  "backend": "coqui_xtts",
+  "sample_path": "F:\\REAL TIME VOICE CHANGER\\ai_models\\cloned_voices\\abc\\samples\\reference.wav",
+  "embedding_path": "F:\\REAL TIME VOICE CHANGER\\ai_models\\cloned_voices\\abc\\embedding.json",
+  "preview_path": "F:\\REAL TIME VOICE CHANGER\\ai_models\\cloned_voices\\abc\\preview.wav",
+  "created_at": "2026-05-14T09:58:57.868425+00:00"
+}

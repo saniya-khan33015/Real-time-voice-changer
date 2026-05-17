@@ -1,0 +1,3 @@
+Narrator: Welcome back to the studio.
+Host: Today we are exploring local voice AI.
+Guest: The best part is that everything runs offline.

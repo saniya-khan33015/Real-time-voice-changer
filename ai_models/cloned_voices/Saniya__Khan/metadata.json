@@ -1,0 +1,9 @@
+{
+  "name": "Saniya__Khan",
+  "display_name": "Saniya  Khan",
+  "backend": "coqui_xtts",
+  "sample_path": "F:\\REAL TIME VOICE CHANGER\\ai_models\\cloned_voices\\Saniya__Khan\\samples\\reference.wav",
+  "embedding_path": "F:\\REAL TIME VOICE CHANGER\\ai_models\\cloned_voices\\Saniya__Khan\\embedding.json",
+  "preview_path": "F:\\REAL TIME VOICE CHANGER\\ai_models\\cloned_voices\\Saniya__Khan\\preview.wav",
+  "created_at": "2026-05-14T09:47:14.574711+00:00"
+}
